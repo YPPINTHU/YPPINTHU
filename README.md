@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yogarasa Pinthushan</h1>
 <h3 align="center">A Zealous Artificial Intelligence and Machine Learning Enthusiast from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/boy-coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yppinthu&label=Profile%20views&color=0e75b6&style=flat" alt="yppinthu" /> </p>
 
 - 📫 How to reach me **pinthu.official@gmail.com**
