@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://github.com/YPPINTHU/Images-for-Readme/blob/main/github-header-image%20(2).png))]
 <h1 align="center">Hi 👋, I'm Yogarasa Pinthushan</h1>
 <h3 align="center">A Zealous Artificial Intelligence and Machine Learning Enthusiast from Sri Lanka</h3>
 <br>
