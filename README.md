@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/11g8elJEOAYnZXbadcAhj0leipSjMhvwT/view?usp=drive_link)]
+[![MasterHead](Master-head.png)]
 <h1 align="center">Hi 👋, I'm Yogarasa Pinthushan</h1>
 <h3 align="center">A Zealous Artificial Intelligence and Machine Learning Enthusiast from Sri Lanka</h3>
 <br>
