@@ -7,9 +7,13 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yppinthu&label=Profile%20views&color=0e75b6&style=flat"
         alt="yppinthu" /> </p>
-<br>
+        <br>
+        
+- 💬 Ask me about **ML, AI, Python, Java, React, Js**
+
 - 📫 How to reach me **pinthu.official@gmail.com**
-<br>
+
+  <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/yogarasa pinthushan" target="blank"><img align="center"
@@ -32,8 +36,7 @@
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
             height="40" />
     </a> &nbsp;
@@ -127,3 +130,5 @@
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=yppinthu&show_icons=true&locale=en&layout=compact"
         alt="yppinthu" /></p>
+
+        
