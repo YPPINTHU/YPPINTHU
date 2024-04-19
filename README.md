@@ -1,4 +1,4 @@
-![MasterHead](Master-head.png)
+![MasterHead](Navy Geometric Technology LinkedIn Banner.png)
 <h1 align="center">Hi 👋, I'm Yogarasa Pinthushan</h1>
 <h3 align="center">A Zealous Artificial Intelligence and Machine Learning Enthusiast from Sri Lanka</h3>
 <br>
