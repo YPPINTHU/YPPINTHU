@@ -44,7 +44,7 @@
 <a href="https://numpy.org/" target="blank" rel="noreferrer">![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)</a>
 <a href="https://matplotlib.org/" target="blank" rel="noreferrer">![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)</a>
 <a href="https://keras.io/" target="blank" rel="noreferrer">![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)</a>
-<a href="https://pytorch.org/" target="blank" rel="noreferrer">![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)</a>
+```<a href="https://pytorch.org/" target="blank" rel="noreferrer">![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)</a>```
 <a href="https://opencv.org/" target="blank" rel="noreferrer">![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)</a>
 
 
